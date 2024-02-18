@@ -38,11 +38,11 @@
 <div id="jwplayerDiv"></div>
 <script>  
 jwplayer("jwplayerDiv").setup({
-        file:"https://linear012-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport3)/manifest_hd.mpd",
+        file:"https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport3)/manifest_sd.mpd?c3.ri=13497107674256751215",
       type: "dash",
       drm: { "clearkey": {
-              "keyId": "00033ea5f863d415b2243371f3887604",
-              "key": "3523ac3b8633634563c112a56b53c798"
+              "keyId": "0007de04e20a711de10e375df407d417",
+              "key": "a28d98170c2f9b50f90b2f590933f685"
             }
              }
 });
